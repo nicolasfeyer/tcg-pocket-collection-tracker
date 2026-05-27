@@ -10,7 +10,6 @@
   "wisdomofseaandsky": "La Via del Cielo e del Mare",
   "secludedsprings": "Sorgenti Recondite",
   "promo-a": "Promo-A",
-
   "geneticapex(a1)": "Geni Supremi (A1)",
   "mythicalisland(a1a)": "L'Isola Misteriosa (A1a)",
   "space-timesmackdown(a2)": "Scontro Spaziotemporale (A2)",
@@ -22,6 +21,22 @@
   "wisdomofseaandsky(a4)": "La Via del Cielo e del Mare (A4)",
   "secludedsprings(a4a)": "Sorgenti Recondite (A4a)",
   "promo-a(p-a)": "Promo-A (P-A)",
-
-  "all": "Tutte"
+  "all": "Tutte",
+  "expansion": "Expansion",
+  "deluxepackex": "Deluxe Pack: ex",
+  "megarising": "Mega Rising",
+  "promo-b": "Promo-B",
+  "deluxepackex(a4b)": "Deluxe Pack: ex (A4b)",
+  "megarising(b1)": "Mega Rising (B1)",
+  "promo-a(p-b)": "Promo-A (P-B)",
+  "crimsonblaze": "Crimson Blaze",
+  "crimsonblaze(b1a)": "Crimson Blaze (B1a)",
+  "fantasticalparade": "Fantastical Parade",
+  "fantasticalparade(b2)": "Fantastical Parade (B2)",
+  "paldeanwonders": "Paldean Wonders",
+  "paldeanwonders(b2a)": "Paldean Wonders (B2a)",
+  "megashine": "Mega Shine",
+  "megashine(b2b)": "Mega Shine (B2b)",
+  "pulsingaura": "Pulsing Aura",
+  "pulsingaura(b3)": "Pulsing Aura (B3)"
 }

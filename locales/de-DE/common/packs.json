@@ -11,11 +11,19 @@
   "solgaleopack": "Solgaleo",
   "buzzwolepack": "Masskito",
   "eeveegrovepack": "Evoli-Hain",
-  "ho-ohpack": "Ho-oH",
+  "ho-ohpack": "Ho-oh",
   "lugiapack": "Lugia",
   "suicunepack": "Suicune",
+  "deluxepack": "Deluxe Pack: ex",
   "everypack": "Alle Packs",
-
   "all": "Alle Packs",
-  "missions": "Missionen"
+  "missions": "Missionen",
+  "megaaltariapack": "Mega Altaria",
+  "megablazikenpack": "Mega Blaziken",
+  "megagyaradospack": "Mega Gyarados",
+  "crimsonblazepack": "Feuerrote Flammen",
+  "megagardevoirpack": "Mega Gardevoir",
+  "paldeanwonderspack": "Paldean Wonders",
+  "megashinepack": "Mega Shine",
+  "pulsingaurapack": "Pulsing Aura"
 }
